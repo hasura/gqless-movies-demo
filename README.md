@@ -1,4 +1,6 @@
-# [gqless movies app](https://codesandbox.io/s/github/hasura/gqless-movies-demo)
+# gqless movies app
+
+Check out [the live demo](https://codesandbox.io/s/github/hasura/gqless-movies-demo) or read [the blog post at hasura.io](https://hasura.io/blog/gqless-fetch-your-graphql-data-automagically/)
 
 [![Demo](https://i.imgur.com/88Vggc4.gif)![Edit movies](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/gqless-movies-demo)
 
