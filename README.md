@@ -1,6 +1,9 @@
 # gqless movies app
 
+[![gqless homepage](https://i.imgur.com/xlreyRd.png)](https://gqless.netlify.com/)
+
 **Check out the [live CodeSandbox demo](https://codesandbox.io/s/github/hasura/gqless-movies-demo)**, read the [blog post over at hasura.io](https://hasura.io/blog/gqless-fetch-your-graphql-data-automagically/).
+
 > Learn more at [gqless.netlify.com](https://gqless.netlify.com/)
 
 ## Features
@@ -12,12 +15,6 @@ Effortlessly create GraphQL apps within minutes. All progressively loaded, with 
 
 [![Demo](https://i.imgur.com/88Vggc4.gif)](https://codesandbox.io/s/github/hasura/gqless-movies-demo)
 
-
-### query-less data fetching
-
-No need to define raw GraphQL querys. Automatically generated for you.
-
-[![gqless homepage](https://i.imgur.com/xlreyRd.png)](https://gqless.netlify.com/)
 
 ### Rich IDE experience
 
