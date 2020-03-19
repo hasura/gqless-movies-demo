@@ -1,0 +1,7 @@
+{
+  "url": "[YOUR HASURA GRAPHQL ENDPOINT]",
+  "outputDir": "src/movies_api",
+  "headers": {
+    "x-hasura-admin-secret": "[YOUR HASURA ADMIN SECRET]"
+  }
+}
