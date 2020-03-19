@@ -1,14 +1,14 @@
 import { Client, QueryFetcher } from "gqless";
 import { schema, query_root } from "./generated";
 
-const endpoint = "[YOUR HASURA GRAPHQL ENDPOINT]";
+const endpoint = "https://gqless-hasura.herokuapp.com/v1/graphql";
 
 const fetchQuery: QueryFetcher = async (query, variables) => {
   const response = await fetch(endpoint, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "x-hasura-admin-secret": "[YOUR HASURA ADMIN SECRET]"
+      //"x-hasura-admin-secret": "[YOUR HASURA ADMIN SECRET]"
     },
     body: JSON.stringify({
       query,
