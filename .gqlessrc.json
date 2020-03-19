@@ -1,7 +1,5 @@
 {
-  "url": "[YOUR HASURA GRAPHQL ENDPOINT]",
+  "url": "https://gqless-hasura.herokuapp.com/v1/graphql",
   "outputDir": "src/movies_api",
-  "headers": {
-    "x-hasura-admin-secret": "[YOUR HASURA ADMIN SECRET]"
-  }
+  "headers": {}
 }
