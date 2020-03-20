@@ -2,7 +2,7 @@
 
 [![gqless homepage](https://i.imgur.com/xlreyRd.png)](https://gqless.netlify.com/)
 
-**Check out the [live CodeSandbox demo](https://codesandbox.io/s/github/hasura/gqless-movies-demo)**, read the [blog post over at hasura.io](https://hasura.io/blog/gqless-fetch-your-graphql-data-automagically/).
+**Check out the [live CodeSandbox demo](https://codesandbox.io/s/github/hasura/gqless-movies-demo)**, and read the [tutorial blog post over at hasura.io](https://hasura.io/blog/gqless-fetch-your-graphql-data-automagically/).
 
 > Learn more at [gqless.netlify.com](https://gqless.netlify.com/)
 
